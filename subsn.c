@@ -10,6 +10,7 @@ int getindex(char c, char* str)
 	}
 	return -1;
 }
+//testing the git hub version control system
 int checkstring(char * str, char * t)
 {
 	int i,len2 = strlen(t),index,temp = -1;
